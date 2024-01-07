@@ -8,7 +8,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 ## Summary
 
-Decide whether a player account that farms a boss in Old School Runescape is a bot. 
+The goal of this project is to build an AI-based program that could decide whether a character that farms a boss in Old School Runescape is a bot. Old School Runescape is a massively multiplayer online role playing game (MMORPG) developed and published by Jagex Ltd.
 
 
 ## Background
